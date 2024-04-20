@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile app developer and 3D Animator
 ------------------------------------
 
-Sadiq Muhammad Aliyu, a 27-year-old professional from Kano State, Nigeria, boasts extensive experience in project management, including a role as the head of the animation department at Shamrock Innovations. Additionally, he served as a programmer and research assistant at Zana Digital Brand and spent 2 years as a Center Administrator at Hamdala ICT Center. His skill set encompasses mobile development, 3D modeling, and proficiency in various programming languages such as JavaScript, Java, C++, Kotlin, Python as well as a basic understanding of HTML and CSS.
+Sadiq Muhammad Aliyu, a 27-year-old professional from Kano State, Nigeria, boasts extensive experience in project management, including a role as the head of the animation department at Shamrock Innovations. Additionally, he served as a Mobile app developer and research assistant at Zana Digital Brand and spent 2 years as a Center Administrator at Hamdala ICT Center. His skill set encompasses mobile development, 3D modeling, and proficiency in various programming languages such as JavaScript, Java, C++, Kotlin, Python as well as a basic understanding of HTML and CSS.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [sadiqmaliyu01@gmail.com](mailto:sadiqmaliyu01@gmail.com )

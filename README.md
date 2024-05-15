@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile app developer and 3D Animator
 ------------------------------------
 
-Sadiq is Experienced tech pro with over 5 years' track record in system architecture in AI and Mobile App development. Skilled in cutting-edge tools like Android Studio, Java, Kotlin, Python, Jetpack Compose, XML, Gradle, Android SDK, Material Design Components, Firebase, SQLite Database, Android Virtual Device Manager (AVD), Git, Adobe XD, Sketch, and Postman. Renowned for customer focus, reliability, and delivering top-notch solutions. Ready to innovate and lead in today's dynamic tech scene.
+Sadiq is an experienced tech pro with over 5 years' track record in system architecture in AI and Mobile App development. Skilled in cutting-edge tools like Android Studio, Java, Kotlin, Python, Jetpack Compose, XML, Gradle, Android SDK, Material Design Components, Firebase, SQLite Database, Android Virtual Device Manager (AVD), Git, Adobe XD, Sketch, and Postman. Renowned for customer focus, reliability, and delivering top-notch solutions. Ready to innovate and lead in today's dynamic tech scene.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [sadiqmaliyu01@gmail.com](mailto:sadiqmaliyu01@gmail.com )
